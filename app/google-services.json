@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "255996399860",
+    "firebase_url": "https://sodig-bb314.firebaseio.com",
+    "project_id": "sodig-bb314",
+    "storage_bucket": "sodig-bb314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255996399860:android:7e5be0dabdc4abfd",
+        "android_client_info": {
+          "package_name": "com.example.okilan.sodig_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255996399860-ggnpmb9vnsegfeq40987ejsb7d1tgoum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.okilan.sodig_",
+            "certificate_hash": "edab264fe91dba2a04cac969d0e88b4eefcb9a19"
+          }
+        },
+        {
+          "client_id": "255996399860-b64ipu6dncpajpmh7il74d76amt215f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvmCMxckPlyNom93Vtul5tnIxfWmM6GK8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255996399860-b64ipu6dncpajpmh7il74d76amt215f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
